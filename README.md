@@ -1,2 +1,5 @@
 # kakao-clone
- kakao clone coding
+
+kakao clone coding
+
+Jerom77 Hello GitHub~~
